@@ -1,0 +1,7 @@
+python-dotenv
+requests
+pandas
+tkcalendar
+pillow
+nltk
+ttkbootstrap
